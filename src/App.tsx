@@ -272,17 +272,14 @@ function App() {
             <article className="schedule-card">
               <span>12:30</span>
               <h3>Karşılama</h3>
-              <p>Misafir kabulü ve karşılama.</p>
             </article>
             <article className="schedule-card">
               <span>13:00</span>
               <h3>Nikah Merasimi</h3>
-              <p>Resmi nikah töreni ve imza anı.</p>
             </article>
             <article className="schedule-card">
               <span>13:30</span>
               <h3>Tebrik & Fotoğraf</h3>
-              <p>Birlikte anı biriktireceğimiz fotoğraf bölümü.</p>
             </article>
           </div>
         </section>
